@@ -1,4 +1,4 @@
-package com.itmuch.cloud.study.entity;
+package com.itmuch.cloud.study.user.entity;
 
 import java.math.BigDecimal;
 

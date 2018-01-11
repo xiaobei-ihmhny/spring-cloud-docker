@@ -1,6 +1,6 @@
-package com.itmuch.cloud.study.controller;
+package com.itmuch.cloud.study.user.controller;
 
-import com.itmuch.cloud.study.entity.User;
+import com.itmuch.cloud.study.user.entity.User;
 import com.itmuch.cloud.study.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
